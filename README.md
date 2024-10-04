@@ -6,7 +6,7 @@
 
 🌱 Always open to new collaborations, I’m particularly interested in open-source projects where I can apply my knowledge and learn from the community.
 
-📫 You can reach me at [gushdzv@gmail.com](mailto:gushdzv@gmail.com). Let’s build something amazing together!
+📫 Let’s build something amazing together!
 
 
 <!---
